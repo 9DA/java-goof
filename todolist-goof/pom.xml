@@ -10,7 +10,7 @@
     <url>https://github.com/snyk/java-goof</url>
 
     <properties>
-        <spring.version>5.3.27</spring.version>
+        <spring.version>5.3.32</spring.version>
         <hibernate.version>5.4.24.Final</hibernate.version>
         <log4j.version>2.17.2</log4j.version>
         <tapestry.version>5.3.8</tapestry.version>
